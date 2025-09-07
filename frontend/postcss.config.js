@@ -1,5 +1,5 @@
 // This is a configuration file for post-CSS
-module.exports = {
+export default {
   plugins: {
     tailwindcss: {},
     autoprefixer: {},
